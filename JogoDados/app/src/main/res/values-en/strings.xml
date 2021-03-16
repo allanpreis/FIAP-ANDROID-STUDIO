@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GivenGame</string>
+    <string name="txt_jogo">Lucky Game</string>
+    <string name="txt_jogador1">Player 1</string>
+    <string name="txt_jogador2">Player 2</string>
+    <string name="btnJogar">START</string>
+    <string name="txtEmpate">Tied</string>
+    <string name="txtVencedor">Winner</string>
+</resources>

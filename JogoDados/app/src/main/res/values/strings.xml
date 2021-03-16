@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JogoDados</string>
+    <string name="txt_jogo">Jogo da Sorte</string>
+    <string name="txt_jogador1">Jogador 1</string>
+    <string name="txt_jogador2">Jogador 2</string>
+    <string name="btnJogar">Jogar</string>
+    <string name="txtEmpate">Empate</string>
+    <string name="txtVencedor">Vencedor</string>
+</resources>
